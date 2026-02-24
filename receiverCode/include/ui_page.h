@@ -321,11 +321,11 @@ function drawChart(cv,a,b,forceMin=null,forceMax=null){
   ctx.fillText(`${HISTORY}s window`, padL, h-6);
 }
 
-/* Alert logic (simple heuristic; tune with tests) */
+/* Alert logic (heuristic; tune with tests) */
 const ALERT={
-  windowS:30, minValid:15,
-  smokePM25:60, firePM25:120,
-  dryRH:35, warmC:28,
+  windowS:30, minValid:1,
+  smokePM25:1, firePM25:1,
+  dryRH:80, warmC:22,
   requireBoth:true
 };
 function lastN(arr,n){ return arr.length<=n?arr.slice():arr.slice(arr.length-n); }
