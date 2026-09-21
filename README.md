@@ -75,8 +75,8 @@ You’ll find the following important values in the code:
 
 Goal: detect smoke trends while minimizing false positives.
 
-Likely testing:
-- Baseline run in clean air (10–15 min)
+ testing:
+- Baseline run in clean air (10 min)
 - Controlled smoke source at multiple distances and heights
 - Record PM2.5 response, time-to-detect, and environmental conditions
 
@@ -98,12 +98,6 @@ Likely testing:
 **BME280 not detected**
 - Wrong I2C address (0x76 vs 0x77)
 - Wiring/power issue
-
----
-
-## Disclaimer
-
-Educational prototype only. Do not use as a life-safety system or as the sole source of wildfire warning.
 
 ---
 ## License
