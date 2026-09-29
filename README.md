@@ -1,7 +1,10 @@
 # Wildfire Detection Network
 <img width="439" height="257" alt="image" src="https://github.com/user-attachments/assets/cc36fa88-21a2-400b-bdba-d75553aa25aa" />
+
 <img width="248" height="212" alt="Screenshot 2026-09-28 224438" src="https://github.com/user-attachments/assets/ceba2a11-fbaa-43a9-9904-0c6c6f815390" />
+
 <img width="436" height="243" alt="image" src="https://github.com/user-attachments/assets/d446a8a0-6f91-452c-9d86-c100c3854412" />
+
 <img width="4284" height="5712" alt="IMG_1723" src="https://github.com/user-attachments/assets/5fe330e6-c8fd-4d0b-8a46-e0a3b2c84c7a" />
 
 
