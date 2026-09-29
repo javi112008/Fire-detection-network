@@ -120,9 +120,9 @@ The sender configuration declares the Adafruit BME280 and Adafruit Unified Senso
 
 ## Prototype Testing
 
-Our EDD portfolio documents baseline measurements, smoke exposure at several distances, uneven plume exposure, dust, heat-only conditions, recovery, and packet delivery.
+Our portfolio documents baseline measurements, smoke exposure at several distances, uneven plume exposure, dust, heat-only conditions, recovery, and packet delivery.
 
-| Test or measurement | Reported result |
+| Test or measurement | Reported results |
 | --- | --- |
 | Baseline PM2.5 | Node A: 3 µg/m³; Node B: 4 µg/m³ |
 | Smoke peak at 20 ft | Node A: 1,439 µg/m³; Node B: 699 µg/m³ |
@@ -134,7 +134,7 @@ These figures come from our project report, not a benchmark of every revision in
 
 ### Design changes from testing
 
-Our first enclosure did not fit all the components correctly and had misaligned sensor openings. Later testing exposed heat buildup in the black enclosure. The team revised the CAD, added ventilation, changed the exterior to white, and updated the lid design. These changes addressed practical fit and exposure problems; they did not establish a verified waterproof rating.
+Our first enclosure did not fit all the components correctly and had misaligned sensor openings. Later testing exposed heat buildup in the black enclosure. Our team revised the CAD, added ventilation, changed the exterior to white, and updated the lid design. These changes addressed practical fit and exposure problems.
 
 ## Limitations and Next Steps
 
