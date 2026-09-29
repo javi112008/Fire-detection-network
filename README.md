@@ -17,7 +17,7 @@ We built this as a three-person Engineering Design and Development capstone at G
 
 - **Javi Medorio** — Developed the ESP32 C++ firmware, designed the wiring and hardware layout, planned the wireless communication system, and created the detection and alert logic. Also helped with parts of the webpage.
 - **Jaitine Kristeme Macias** — Developed the HTML dashboard and led the data analysis and project reports.
-- **Jonathan Taylot** — Designed the CAD enclosure, assembled the prototype, developed the mathematical calculations, and helped with wiring.
+- **Jonathan Taylor** — Designed the CAD enclosure, assembled the prototype, developed the mathematical calculations, and helped with wiring.
 
 
 ## My Contribution
